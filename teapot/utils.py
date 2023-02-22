@@ -1,0 +1,3 @@
+Celsius = int
+Seconds = float
+
